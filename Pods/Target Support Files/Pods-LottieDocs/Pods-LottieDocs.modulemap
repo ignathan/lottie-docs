@@ -1,0 +1,6 @@
+module Pods_LottieDocs {
+  umbrella header "Pods-LottieDocs-umbrella.h"
+
+  export *
+  module * { export * }
+}
