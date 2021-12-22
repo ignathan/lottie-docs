@@ -13,7 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
     
     static func displayWindow(_ window: UIWindow) {
-        window.rootViewController = ViewController()
+        window.rootViewController = MainViewController()
         window.makeKeyAndVisible()
     }
     
